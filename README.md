@@ -1,6 +1,6 @@
 <h4>2020/08 ~ 2020/10</h4>
 
-# Space Shuttle Simulator
+# Space Shuttle Game
 
 ## Main Functions
 1. Control a space shuttle by pressing bottom left to move it left and bottom right to move it right.
